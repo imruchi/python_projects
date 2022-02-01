@@ -1,2 +1,2 @@
 # python_projects
-A beginner trying to understand what python is. Constructive criticism is appreciated.
+The projects I am working on while learning Python and extending into various fields such as Data Science. 
