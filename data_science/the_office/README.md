@@ -3,7 +3,9 @@ I was curious to see how long I spent watching my go-to TV show- The Office.
 
 
 To download your Viewing Activity:
+
 Click on the link below and log into your Netflix account. 
+
 https://www.netflix.com/account/getmyinfo
 
 On the next page, you should see a red colour 'Submit Request' button. And then, unfortunately, you will have to wait. Consider bookmarking this page so that you can come back once you’ve got your data. Netflix will email you when your report is available to download.
